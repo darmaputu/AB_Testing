@@ -285,6 +285,6 @@ Business Insights
 
 Data Analyst | Business Analytics & Data Governance
 
-* GitHub: github.com/darmaputu
-* LinkedIn: linkedin.com/in/i-putu-darma-ruswara-329366148/
-* Upwork: upwork.com/freelancers/~01299ccc7efce03dea
+* GitHub: [I Putu Darma Ruswara](github.com/darmaputu)
+* LinkedIn: [I Putu Darma Ruswara](linkedin.com/in/i-putu-darma-ruswara-329366148/)
+* Upwork: [I Putu Darma Ruswara](upwork.com/freelancers/~01299ccc7efce03dea)
